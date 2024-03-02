@@ -1,10 +1,7 @@
 @media screen and (width < 768px) {
-
     .Board {
-
         width: 85vw;
     }
-
 }
 
 @media screen and (640px <=width < 768px) {
