@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Memory-Card-Game--Mistborn-Version-/static/css/main.6da113c7.css",
+    "main.js": "/Memory-Card-Game--Mistborn-Version-/static/js/main.2e4e917d.js",
+    "static/js/787.d6a8b40f.chunk.js": "/Memory-Card-Game--Mistborn-Version-/static/js/787.d6a8b40f.chunk.js",
+    "static/media/Brass.svg": "/Memory-Card-Game--Mistborn-Version-/static/media/Brass.a2e854a42510066d4cfe503f1bf1a5e6.svg",
+    "static/media/Duralumin.svg": "/Memory-Card-Game--Mistborn-Version-/static/media/Duralumin.edefeb866ce9efd3381784776fe4564f.svg",
+    "static/media/Aluminum.svg": "/Memory-Card-Game--Mistborn-Version-/static/media/Aluminum.ff471e0e7db235594190c91889d8ec9b.svg",
+    "static/media/Tin.svg": "/Memory-Card-Game--Mistborn-Version-/static/media/Tin.c44aec24113c92506ad5e4a50edeff19.svg",
+    "index.html": "/Memory-Card-Game--Mistborn-Version-/index.html",
+    "static/media/Nicrosil.svg": "/Memory-Card-Game--Mistborn-Version-/static/media/Nicrosil.01a7b1d9ec44e8c5ae4ead57b932122d.svg",
+    "static/media/Zinc.svg": "/Memory-Card-Game--Mistborn-Version-/static/media/Zinc.4b77b9ee098de611c881f35d822b4f9e.svg",
+    "static/media/Chromium.svg": "/Memory-Card-Game--Mistborn-Version-/static/media/Chromium.469877451c030626984c6ab1c27e43d5.svg",
+    "static/media/Bendalloy.svg": "/Memory-Card-Game--Mistborn-Version-/static/media/Bendalloy.06c397eef05d3e01bcd23a9cc05ca983.svg",
+    "static/media/Bronze.svg": "/Memory-Card-Game--Mistborn-Version-/static/media/Bronze.0c4c4d1b8556cc103b74d65c7cebbf12.svg",
+    "static/media/Steel.svg": "/Memory-Card-Game--Mistborn-Version-/static/media/Steel.a053315ef720a5caef91f783bf7e2b5e.svg",
+    "static/media/Gold.svg": "/Memory-Card-Game--Mistborn-Version-/static/media/Gold.97b53e76088357edd6e0d81a31ce3513.svg",
+    "static/media/Pewter.svg": "/Memory-Card-Game--Mistborn-Version-/static/media/Pewter.39df994493c93276208d2bf462f68678.svg",
+    "static/media/Cadmium.svg": "/Memory-Card-Game--Mistborn-Version-/static/media/Cadmium.cf1846faad97489bb618385470396fd6.svg",
+    "static/media/Iron.svg": "/Memory-Card-Game--Mistborn-Version-/static/media/Iron.9d8910d3fd61685638e21b5ebee20a21.svg",
+    "static/media/Copper.svg": "/Memory-Card-Game--Mistborn-Version-/static/media/Copper.e135d80df852b0f4c98173b2273d8725.svg",
+    "static/media/Electrum.svg": "/Memory-Card-Game--Mistborn-Version-/static/media/Electrum.89ff1af3e09318819d0add671a4e8dfe.svg",
+    "main.6da113c7.css.map": "/Memory-Card-Game--Mistborn-Version-/static/css/main.6da113c7.css.map",
+    "main.2e4e917d.js.map": "/Memory-Card-Game--Mistborn-Version-/static/js/main.2e4e917d.js.map",
+    "787.d6a8b40f.chunk.js.map": "/Memory-Card-Game--Mistborn-Version-/static/js/787.d6a8b40f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6da113c7.css",
+    "static/js/main.2e4e917d.js"
+  ]
+}
