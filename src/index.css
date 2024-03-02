@@ -12,7 +12,18 @@ code {
     monospace;
 }
 
-h5{
-  margin: 0;
-  margin-bottom: 10px;
+@media screen and (width < 350px) {
+  h2{
+    font-size: 1.3rem;
+  }
+}
+
+@media screen and (width < 639px) {
+  h2 {
+    margin-top: 50px;
+  }
+}
+
+h2 {
+  margin-top: 20px;
 }

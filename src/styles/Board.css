@@ -1,19 +1,51 @@
+@media screen and (width < 768px) {
+
+    .Board {
+
+        width: 85vw;
+    }
+
+}
+
+@media screen and (640px <=width < 768px) {
+    .Board {
+        width: 80vw;
+    }
+}
+
+@media screen and (768px <=width < 1100px) {
+    .Board {
+        width: 80vw;
+    }
+}
+
+@media screen and (width >=1100px) {
+    .Board {
+        height: 70vh;
+    }
+}
+
+
 .Board {
     border: 1px solid white;
     border-radius: 15px;
+    padding: 5px;
     aspect-ratio: 1 / 1;
-    height: 75vh;
     display: grid;
-    padding: 0px;
-    gap: 10px;
-    padding-top: 20px;
-    padding-left: 20px;
     grid-template-rows: repeat(4, 1fr);
     grid-template-columns: repeat(4, 1fr);
 }
 
-.Board > * {
-    border: 1px solid white;
-    border: 15px;
-    aspect-ratio: 1 / 1;
+h5 {
+    margin: 10px 0 10px 10px;
+    background-color: white;
+    width: fit-content;
+    padding: 5px 15px;
+    border-radius: 10px;
+    color: black;
+}
+
+.punctuation {
+    margin-top: 20px;
+    display: flex;
 }

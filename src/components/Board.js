@@ -56,10 +56,6 @@ export const Board = () => {
         setMemoryArray(newMemoryArray);
         setPoints(points + 1);
     }
-    if (points === 16) {
-        confetti();
-        setMaxPoints(points);
-    };
   };
 
   const cards = cardArray.map((card) => {
@@ -79,11 +75,19 @@ export const Board = () => {
 
   useEffect(() => {
     shuffleCards();
+    if (points === 16) {
+      confetti();
+      setMaxPoints(points);
+  };
   }, [points]);
 
   return (
     <div>
-      <h5>Points: {points} | Max points: {maxPoints}</h5>
+      <div className="punctuation">
+        <h5>Points: {points}</h5>
+        <h5>Max points: {maxPoints}</h5>
+      </div>
+      
       <div className="Board">{cards}</div>
     </div>
   );
